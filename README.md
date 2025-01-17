@@ -40,8 +40,6 @@ Brainfuck uses these eight simple commands:
 - **Error Detection:** 
   - Unmatched bracket detection
   - Runtime error handling
-  - Memory bounds checking
-- **User-Friendly:** Clear error messages and execution status
 
 ## 🔧 Prerequisites
 
